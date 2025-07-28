@@ -14,6 +14,7 @@
 - E-commerce Clothing Store Website
 - Temperature Checker App
 - ALPHA Company
+- CCNA Practical Network Design
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/youssef-mohamed00/

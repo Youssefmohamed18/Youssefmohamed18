@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Youssef Mohamed
 
-<!--
-**Youssefmohamed18/Youssefmohamed18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Modern Academy  
+💻 Web Developer | 🎬 Video Editor | 🌐 Networking Enthusiast  
+🔐 Currently learning Cyber Security with Sprints
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- DaVinci Resolve
+- CCNA (Routing & Switching)
+- Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects (Coming Soon)
+- E-commerce Clothing Store Website
+- Temperature Checker App
+- ALPHA Company
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/youssef-mohamed00/
+- Email: youssefmramadan0.0@gmail.com

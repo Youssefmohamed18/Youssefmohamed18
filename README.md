@@ -10,7 +10,7 @@
 - CCNA (Routing & Switching)
 - Cisco Packet Tracer
 
-## 📁 Projects (Coming Soon)
+## 📁 Projects
 - E-commerce Clothing Store Website
 - Temperature Checker App
 - ALPHA Company

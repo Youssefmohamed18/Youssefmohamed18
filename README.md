@@ -6,10 +6,7 @@
 
 ## 👤 About Me
 
-Computer Science student passionate about transforming messy data into meaningful insights.
-I work with **SQL**, **Excel**, and **Power BI** to clean, analyze, and visualize data — and I'm currently building my Python skills for deeper analysis.
-
-Focused on building a portfolio of real-world projects that solve actual business problems.
+Data Analyst building real-world projects in SQL, Excel, and Power BI. Passionate about turning messy data into clear, actionable insights and telling data-driven stories.
 
 - 🎓 CS Student @ Modern Academy
 - 📍 Cairo, Egypt

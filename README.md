@@ -1,4 +1,4 @@
-# Hey 👋, I'm Youssef Mohamed
+# Hey , I'm Youssef Mohamed
 
 ### Aspiring Data Analyst | Turning raw data into clear decisions
 

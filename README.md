@@ -41,6 +41,7 @@ Data Analyst building real-world projects in SQL, Excel, and Power BI. Passionat
 |---|---|---|---|
 | 📡 Telecom Customer Churn Analysis | Analyzed 7,043 customers to identify churn drivers — 27% overall churn rate, contract type & tenure are the biggest risk factors | Excel · Pivot Tables · Dashboard | [View →](https://github.com/Youssefmohamed18/telecom-churn-analysis) |
 | 🍽️ Restaurant Sales Analysis | Analyzed 500 orders across 8 months — morning is peak revenue at 47% of daily sales, weekdays drive 2.7× more revenue than weekends | Excel · Pivot Tables · Dashboard | [View →](https://github.com/Youssefmohamed18/restaurant-sales-analysis) |
+| 📊 Customer Churn Analysis  | Analyzed 7,043 customers — month-to-month contracts drive the highest churn at 45.8%, over 4× higher than long-term contracts, making contract type the primary churn driver. | PowerBi · Power Query · Dashboard | [View →](https://github.com/Youssefmohamed18/Customer-churn-analysis) |
 
 ---
 

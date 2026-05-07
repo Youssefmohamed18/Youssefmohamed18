@@ -11,7 +11,7 @@ Data Analyst building real-world projects in SQL, Excel, and Power BI. I special
 - 🎓 **CS Student** @ Modern Academy
 - 📍 **Cairo, Egypt**
 - 🏗️ **Experience:** Completed technical internships at **Khalda Petroleum (Apache JV)** & **EGPC**, observing enterprise-level data operations.
-- 🌱 **Currently learning:** Python for Data Analysis · Statistics · Data Storytelling
+- 🌱 **Currently learning:** Python for Data Analysis · Statistics
 - 💼 **Open to:** Data Analyst internships & entry-level roles
 
 ---

@@ -1,37 +1,34 @@
-# Hey , I'm Youssef Mohamed
+# Hey , I'm Youssef Mohamed 👋
 
-### Aspiring Data Analyst | Turning raw data into clear decisions
+### Aspiring Data Analyst | Turning raw data into clear business decisions
 
 ---
 
 ## 👤 About Me
 
-Data Analyst building real-world projects in SQL, Excel, and Power BI. Passionate about turning messy data into clear, actionable insights and telling data-driven stories.
+Data Analyst building real-world projects in SQL, Excel, and Power BI. I specialize in turning messy data into clear, actionable insights and telling data-driven stories.
 
-- 🎓 CS Student @ Modern Academy
-- 📍 Cairo, Egypt
-- 🌱 Currently learning: Python for Data Analysis · Statistics · Data Storytelling
-- 💼 Open to: Data Analyst internships & entry-level roles
+- 🎓 **CS Student** @ Modern Academy
+- 📍 **Cairo, Egypt**
+- 🏗️ **Experience:** Completed technical internships at **Khalda Petroleum (Apache JV)** & **EGPC**, observing enterprise-level data operations.
+- 🌱 **Currently learning:** Python for Data Analysis · Statistics · Data Storytelling
+- 💼 **Open to:** Data Analyst internships & entry-level roles
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Tools:**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python_basics-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Skills & Libraries:**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-0F6E56?style=flat&logoColor=white)
-![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-0C447C?style=flat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
 
 ---
 
@@ -39,13 +36,12 @@ Data Analyst building real-world projects in SQL, Excel, and Power BI. Passionat
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| 📊 Telecom Customer Churn Analysis  | Analyzed 7,043 customers — month-to-month contracts drive the highest churn at 45.8%, over 4× higher than long-term contracts, making contract type the primary churn driver. | PowerBi · Power Query . Excel · Pivot Tables · Dashboard | [View →](https://github.com/Youssefmohamed18/Telecom-Customer-Churn-Analysis) |
-| 🍽️ Restaurant Sales Analysis | Analyzed 500 orders across 8 months — morning is peak revenue at 47% of daily sales, weekdays drive 2.7× more revenue than weekends | Excel · Pivot Tables · Dashboard | [View →](https://github.com/Youssefmohamed18/restaurant-sales-analysis) |
-
+| 📊 **Telecom Churn Analysis** | Analyzed 7,043 records. Found that month-to-month contracts drive 45.8% churn, highlighting contract type as the primary retention driver. | Power BI · Power Query · Excel | [View Project →](https://github.com/Youssefmohamed18/Telecom-Customer-Churn-Analysis) |
+| 🍽️ **Restaurant Sales Analysis** | Analyzed 8 months of data. Identified morning peaks (47% of revenue) and a 2.7x revenue increase on weekdays vs weekends. | Excel · Pivot Tables · Dashboards | [View Project →](https://github.com/Youssefmohamed18/restaurant-sales-analysis) |
 
 ---
 
-## 📬 Let's Connect
+## 📩 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed00/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefmramadan0.0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed00/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmramadan0.0@gmail.com)

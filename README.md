@@ -38,7 +38,7 @@ Data Analyst building real-world projects in SQL, Excel, and Power BI. I special
 |---|---|---|---|
 | 📊 **Telecom Churn Analysis** | Analyzed 7,043 records. Found that month-to-month contracts drive 45.8% churn, highlighting contract type as the primary retention driver. | Power BI · Power Query · Excel | [View Project →](https://github.com/Youssefmohamed18/Telecom-Customer-Churn-Analysis) |
 | 🍽️ **Restaurant Sales Analysis** | Analyzed 8 months of data. Identified morning peaks (47% of revenue) and a 2.7x revenue increase on weekdays vs weekends. | Excel · Pivot Tables · Dashboards | [View Project →](https://github.com/Youssefmohamed18/restaurant-sales-analysis) |
-
+| 🕋 **Hajj Pilgrimage Analytics** | Analyzed 168M+ pilgrims across 55 countries (2012–2026). Engineered SQL ETL pipeline and Star Schema with 20+ DAX measures. | MySQL · Power BI · DAX · Power Query |[View Project →](https://github.com/Youssefmohamed18/Hajj-Analytics) |
 ---
 
 ## 📩 Let's Connect!

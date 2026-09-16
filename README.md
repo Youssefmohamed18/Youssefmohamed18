@@ -45,3 +45,4 @@ Data Analyst building real-world projects in SQL, Excel, and Power BI. I special
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed00/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmramadan0.0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-006C35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youssefmohamed18.github.io/)

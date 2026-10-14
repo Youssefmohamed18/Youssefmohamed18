@@ -12,7 +12,7 @@ Data Analyst building real-world projects in SQL, Excel, and Power BI. I special
 - 📍 **Cairo, Egypt**
 - 🏗️ **Experience:** Completed technical internships at **Khalda Petroleum (Apache JV)** & **EGPC**, observing enterprise-level data operations.
 - 🌱 **Currently learning:** Python for Data Analysis · Statistics
-- 💼 **Open to:** Data Analyst internships & entry-level roles
+- 💼 **Open to:** Data Analyst Job & entry-level roles
 
 ---
 
